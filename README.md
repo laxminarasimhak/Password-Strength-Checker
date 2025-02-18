@@ -17,6 +17,7 @@ To run this application, ensure you have Python installed on your machine. You c
 git clone https://github.com/laxminarasimhak/Password-Strength-Checker.git
 cd Password-Strength-Checker
 python MultipleFiles/password.py
+```
 
 ## Usage
 1. Launch the application.
