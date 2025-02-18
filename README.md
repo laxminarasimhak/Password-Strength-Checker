@@ -23,11 +23,11 @@ python MultipleFiles/password.py
 1. Launch the application.
 2. Enter a password in the input field to check its strength.
 3. The strength of the password will be displayed along with a color indicator:
-          - Weak: Red
-          - Moderate: Orange
-          - Strong: Yellow
-          - Very Strong: Green
-4. Follow the password creation rules displayed in the application to create a secure password.
+   - Weak: Red
+   - Moderate: Orange
+   - Strong: Yellow
+   - Very Strong: Green
+5. Follow the password creation rules displayed in the application to create a secure password.
 
 ## Password Creation Rules
 - At least 8 characters long
