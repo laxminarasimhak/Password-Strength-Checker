@@ -36,9 +36,6 @@ python MultipleFiles/password.py
 - Include at least one special character (e.g., @, #, $, %)
 - Avoid common passwords
 
-## Contributing
-Contributions are welcome! Please read the CONTRIBUTING.md for details on how to contribute to this project.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
