@@ -14,6 +14,6 @@ A simple GUI application built with Python's Tkinter library to evaluate the str
 To run this application, ensure you have Python installed on your machine. You can clone the repository and run the script as follows:
 
 ```bash
-git clone <https://github.com/laxminarasimhak/Password-Strength-Checker.git>
-cd <Password-Strength-Checker>
+git clone https://github.com/laxminarasimhak/Password-Strength-Checker.git
+cd Password-Strength-Checker
 python MultipleFiles/password.py
